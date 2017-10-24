@@ -1,0 +1,38 @@
+baseurl = "http://example.org"
+title = "An Le"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Software Developer & Product Manager<!--]--><br />
+                <!--[--><!--]-->'
+  logo = "fa-id-card"
+  copyright = "An Le"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://www.twitter.com/lean257"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/anvle"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/anvle"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://www.github.com/lean257"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto: lean257@gmail.com"
